@@ -12,7 +12,7 @@ public class CoinFlip {
         
         Scanner scnr = new Scanner(System.in);
         
-        System.out.print("Which will be more: heads or tails? ");
+        System.out.print("Guess which will have more: heads or tails? ");
         String headsOrTailsGuess = scnr.nextLine();
          
         System.out.print("How many times will the coin be flipped? ");
